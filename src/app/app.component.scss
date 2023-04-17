@@ -81,6 +81,13 @@ header {
     background-size: 450px;
     background-position-y: 50%;
   }
+  video {
+    height: 413px;
+    width: calc(100% - 4px);
+    object-fit: cover;
+    margin: auto;
+    border-radius: 40px;
+  }
 }
 #contact {
   @apply relative;
