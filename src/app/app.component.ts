@@ -28,20 +28,21 @@ export class AppComponent implements OnInit {
       Marketing`,
       icon: 'facebook.svg',
       color: 'yellow',
-      dis: `Get more patients in the door with 
-      our lead generation solutions 
-      tailored to the dental industry 
-      and designed to drive real results.`,
+      dis: `Grow your audience 
+      and your brand with 
+      Email Marketing, 
+      Website Management, 
+      Paid Ads and more`,
     },
     {
       name: `Content 
       Creation`,
       icon: 'message.svg',
       color: 'gray',
-      dis: `Get more patients in the door with 
-      our lead generation solutions 
-      tailored to the dental industry 
-      and designed to drive real results.`,
+      dis: `Be seen with original 
+      content creation 
+      and UGC content 
+      packages`,
     },
   ];
   links: any[] = [
