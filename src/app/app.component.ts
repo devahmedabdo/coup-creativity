@@ -47,23 +47,23 @@ export class AppComponent implements OnInit {
   ];
   links: any[] = [
     {
-      link: ``,
+      link: `https://calendly.com/createwithcoup/discoverycall?fbclid=IwAR14vua2qTXbZumlCAX_sY-cwd007LMXbMbAmeNxsPud6U7ZsTGprxwgGd8`,
       img: `phone.png`,
     },
     {
-      link: ``,
+      link: `mailto:createwithcoup@gmail.com`,
       img: `mail.png`,
     },
     {
-      link: ``,
+      link: `https://www.instagram.com/coupcreatives/?fbclid=IwAR2cs10unrTY4Ml-ul54y1WAMbmY19UIHXNWdmjZW-w-Kmq4_HekjID369w`,
       img: `instagram.png`,
     },
     {
-      link: ``,
+      link: `https://twitter.com/coup_creatives?fbclid=IwAR1BYVOfQhA5g7B0pQBun_4O6vcMqPb4cUbC5LRWGnoieWwlCQK06uTB2uQ`,
       img: `twittericon.png`,
     },
     {
-      link: ``,
+      link: `https://www.tiktok.com/@coupcreatives?fbclid=IwAR0Nr7fEMqJBRo50qakZ_dIrbcRkyFdXo-yuwFsLLyn85BHu3fjXdI6NsRc`,
       img: `tiktok.png`,
     },
   ];
